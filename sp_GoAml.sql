@@ -35,6 +35,8 @@ As
    
    @ReportType: TTR, 
    @Br: A= All Branches 
+
+   this is just a test
 */
 
 Create Table #GoAML
